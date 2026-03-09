@@ -4,8 +4,8 @@
 Proyek portofolio ini bertujuan untuk mengevaluasi performa penjualan dan profitabilitas ritel tingkat nasional. Fokus utama analisis ini adalah mengidentifikasi kategori produk yang memiliki margin keuntungan tipis meskipun volume penjualannya tinggi, serta memberikan rekomendasi strategis berbasis data untuk mengoptimalkan profitabilitas.
 
 🛠️ Tools & Technologies
-* Data Source:** Microsoft Excel / CSV
-* Data Visualization & Dashboarding:** Google Looker Studio
+* Data Source: Microsoft Excel / CSV
+* Data Visualization & Dashboarding: Google Looker Studio
 * Techniques:** Exploratory Data Analysis (EDA), Data Storytelling, Business Strategy
 
 🔗 Live Interactive Dashboard
