@@ -6,7 +6,7 @@ Proyek portofolio ini bertujuan untuk mengevaluasi performa penjualan dan profit
 🛠️ Tools & Technologies
 * Data Source: Microsoft Excel / CSV
 * Data Visualization & Dashboarding: Google Looker Studio
-* Techniques:** Exploratory Data Analysis (EDA), Data Storytelling, Business Strategy
+* Techniques: Exploratory Data Analysis (EDA), Data Storytelling, Business Strategy
 
 🔗 Live Interactive Dashboard
 https://lookerstudio.google.com/reporting/070c6d8b-25c7-47d6-b13a-162ea2948e3f
